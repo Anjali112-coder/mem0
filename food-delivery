@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title><link rel="stylesheet" 
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="main-container">
+        <section>
+            <div>
+                <span><i class="fa-solid fa-truck"></i></span>
+                <span>DeliverEat</span>
+            </div>
+            <div class="register-form">
+                <h1>Create an account</h1>
+                <form>
+                   <div class="your name">
+                    <label for="your name">Your name</label>
+                    <input id="your name" type="text" placeholder="Enter your first and last name">
+                   </div>
+
+                   <div class="Email">
+                    <label for="Email">Email</label>
+                    <input id="email" type="text" placeholder="Email-id">
+                   </div>
+
+                   <div class="create password">
+                    <label for=" create password"> Create Password</label>
+                    <input type=" create password" id=" create password" name="create password" placeholder="Enter password">
+                   </div>
+
+                <div class="button-area">
+                       <button class="register-button">Sign-up</button>
+                   </div>
+                   <div class="already have an account">
+                    <p>already-have-an-account?<a href="">signin</a></p>
+                   </div>
+            </form>
+
+            </div>
+            <div class="seperator">
+                <hr>
+                <span>OR</span>
+                </hr>
+            </div>
+            <div class="login-in">
+                <div>
+                    <div class="google">
+                        <span><i class="fa-brands fa-google"></i></span>
+                        <span>sign up with google</span>
+                    </div>
+
+             </div>
+             </div>
+           </section>
+
+    </div>
+    <div>
+        <img src="C:\Users\ANJALI KUMARI\Downloads\food-delivery-.jpg"
+        width="200" height="300"
+        alt="food delivery"></img>
+    </div>
+
+    
+</body>
+</html>
